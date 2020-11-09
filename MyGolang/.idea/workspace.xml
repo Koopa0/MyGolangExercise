@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Go File" />
       </list>
     </option>
@@ -17,6 +18,9 @@
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/golang-web-dev/016_building-a-tcp-server-for-htpp/05/main.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1k1HJHp7ej10ZJLcQWVwRJZbVng" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -47,12 +52,12 @@
       <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\00\03" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (4)">
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="MyGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/01_rand/main.go" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/015_understanding-TCP-servers/01_write/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -60,7 +65,7 @@
       <module name="MyGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/02_hello/main.go" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/016_building-a-tcp-server-for-htpp/01/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -68,34 +73,33 @@
       <module name="MyGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/03_christmas/main.go" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/016_building-a-tcp-server-for-htpp/03/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="MyGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/04_tcp-sample/main.go" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/07_time/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="MyGolang" />
-      <working_directory value="$PROJECT_DIR$/00/09-testing/01-test/01" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/05_tcp-sample/main.go" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/00/09-testing/01-test/01/main_test.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (4)" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Test.main_test.go" />
+        <item itemvalue="Go Build.go build main.go (5)" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -109,22 +113,22 @@
     </state>
     <state x="696" y="223" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604882890651" />
     <state x="2500" y="184" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604862023111" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1604884011155">
+    <state width="778" height="222" key="GridCell.Tab.0.bottom" timestamp="1604892062017">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1604884011155">
+    <state width="778" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604892062017" />
+    <state width="778" height="222" key="GridCell.Tab.0.center" timestamp="1604892062017">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1604884011155">
+    <state width="778" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604892062017" />
+    <state width="778" height="222" key="GridCell.Tab.0.left" timestamp="1604892062017">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1604884011155">
+    <state width="778" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604892062017" />
+    <state width="778" height="222" key="GridCell.Tab.0.right" timestamp="1604892062017">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
+    <state width="778" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604892062017" />
     <state x="2221" y="74" key="SettingsEditor" timestamp="1604862018868">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
