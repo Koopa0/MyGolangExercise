@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/go/src/github.com/GoesToEleven/go-programming" />
+    <property name="last_opened_file_path" value="$USER_HOME$/go/src/github.com/GoesToEleven/golang-web-dev" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,12 +47,36 @@
       <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\00\03" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.main_test.go">
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main.go (4)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="MyGolang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/00/06-error-hading/03-log-set-output/main.go" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/01_rand/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/02_hello/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/03_christmas/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/golang-web-dev/000_temp/04_tcp-sample/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -67,8 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Test.main_test.go" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -77,26 +104,27 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2500" y="184" key="FileChooserDialogImpl" timestamp="1604862023111">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state x="696" y="223" key="FileChooserDialogImpl" timestamp="1604882890651">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="696" y="223" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604882890651" />
     <state x="2500" y="184" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604862023111" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1604878319896">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1604884011155">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604878319896" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1604878319895">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1604884011155">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604878319895" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1604878319895">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1604884011155">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604878319895" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1604878319895">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1604884011155">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604878319895" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1604884011155" />
     <state x="2221" y="74" key="SettingsEditor" timestamp="1604862018868">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
