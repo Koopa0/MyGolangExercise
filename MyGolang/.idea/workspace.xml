@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/go/src/github.com/GoesToEleven/golang-web-dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/golang-web-dev/031_aws/01_hello" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,6 +44,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\golang-web-dev\031_aws\01_hello" />
+      <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\golang-web-dev\031_aws\00_about" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\00\09-testing\04-benchmark" />
       <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\00\08" />
