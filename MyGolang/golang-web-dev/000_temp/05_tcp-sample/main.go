@@ -6,16 +6,16 @@ import (
 	"net"
 )
 
-func main()  {
+func main() {
 	l, err := net.Listen("tcp", ":2000")
-	if err != nil{
+	if err != nil {
 		log.Fatal(err)
 	}
 	defer l.Close()
 	for {
 		//Wait for a connection
 		conn, err := l.Accept()
-		if err != nil{
+		if err != nil {
 			log.Fatal(err)
 		}
 		//Handle the connection in a new goroutine
@@ -23,7 +23,7 @@ func main()  {
 		//multiple connections may be served concurrently
 		go func(c net.Conn) {
 			//Echo all incoming data
-			io.Copy(c,c)
+			io.Copy(c, c)
 			//Shut down the connection
 			c.Close()
 		}(conn)

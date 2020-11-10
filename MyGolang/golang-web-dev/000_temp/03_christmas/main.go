@@ -6,12 +6,12 @@ import (
 	"text/template"
 )
 
-func main()  {
+func main() {
 	tpl, err := template.ParseFiles("letter.phpasp")
-	if err != nil{
+	if err != nil {
 		fmt.Println("There was an error parsing file", err)
 	}
-	friend := []string{"Alex", "Conor","Ken","Ronnie","Patick","Nina","Jeremy","Gentry","Christian"}
+	friend := []string{"Alex", "Conor", "Ken", "Ronnie", "Patick", "Nina", "Jeremy", "Gentry", "Christian"}
 
 	err = tpl.Execute(os.Stdout, friend)
 	if err != nil {
