@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/golang-web-dev/031_aws/01_hello" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/golang-web-dev/042_mongodb/05_mongodb" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,6 +45,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\golang-web-dev\042_mongodb\05_mongodb" />
+      <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\golang-web-dev\042_mongodb" />
+      <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\golang-web-dev\021_third-party-serveMux\01_julienschimdt\templates" />
       <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\golang-web-dev\031_aws\01_hello" />
       <recent name="C:\Users\user\Desktop\MyGolangExercise\MyGolang\golang-web-dev\031_aws\00_about" />
     </key>
